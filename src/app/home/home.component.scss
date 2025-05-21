@@ -1,17 +1,17 @@
-.bg {
-  // background: linear-gradient(
-  //     to bottom,
-  //     rgba(82, 27, 162, 0) 0%,
-  //     /* Fully transparent at the top */ rgba(82, 27, 162, 0.5) 50%,
-  //     /* Semi-transparent in the middle */ rgba(82, 27, 162, 1) 100%
-  //   ),
-  //   url(/assets/images/bg.webp);
-  // background-size: cover;
-  // background-position: center;
-  // background-repeat: no-repeat;
-  position: relative;
-  z-index: 1;
-}
+// .bg {
+//   // background: linear-gradient(
+//   //     to bottom,
+//   //     rgba(82, 27, 162, 0) 0%,
+//   //     /* Fully transparent at the top */ rgba(82, 27, 162, 0.5) 50%,
+//   //     /* Semi-transparent in the middle */ rgba(82, 27, 162, 1) 100%
+//   //   ),
+//   //   url(/assets/images/bg.webp);
+//   // background-size: cover;
+//   // background-position: center;
+//   // background-repeat: no-repeat;
+//   position: relative;
+//   z-index: 1;
+// }
 
 .video-section {
   position: relative;
@@ -315,4 +315,8 @@ main,
   opacity: 0;
   direction: rtl;
   font-family: "Cairo", sans-serif;
+}
+
+.bg-dark-blue {
+  background-color: #120036;
 }
